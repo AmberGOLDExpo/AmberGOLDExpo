@@ -13,4 +13,4 @@ Smart Contracts | Remix IDE | EVM Networks | dApps | Testnets & Airdrop Optimiza
 
 ### 📫 Let's Connect
 * [X (Twitter)](https://twitter.com/Konoput)
-* [DeBank](https://debank.com/) *(Тут ти можеш вставити своє посилання на DeBank замість стандартного)*
+
